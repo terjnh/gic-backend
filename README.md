@@ -9,3 +9,6 @@
 
 ## Instructions:
 Desired model is stored in `drinksArray` in App.js
+
+- To run app:
+  $ npm start
